@@ -148,7 +148,7 @@ const FOOTER_HTML = `
     <div class="footer-bottom-links">
       <a href="privacy-policy">Privacy Policy</a>
       <a href="#">Terms of Use</a>
-      <a href="#">Cookie Policy</a>
+      <a href="privacy-policy">Cookie Policy</a>
     </div>
   </div>
 </footer>
