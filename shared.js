@@ -139,14 +139,14 @@ const FOOTER_HTML = `
       </ul>
       <div class="footer-col-title" style="margin-top:24px;">Legal</div>
       <ul class="footer-links">
-        <li><a href="privacy-policy.pdf">Privacy Policy</a></li>
+        <li><a href="privacy-policy">Privacy Policy</a></li>
       </ul>
     </div>
   </div>
   <div class="footer-bottom">
     <span>© 2026 Samson Soyebi Foundation. All rights reserved. Registered NGO in Nigeria.</span>
     <div class="footer-bottom-links">
-      <a href="privacy-policy.pdf">Privacy Policy</a>
+      <a href="privacy-policy">Privacy Policy</a>
       <a href="#">Terms of Use</a>
       <a href="#">Cookie Policy</a>
     </div>
